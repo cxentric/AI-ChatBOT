@@ -1,0 +1,17 @@
+{
+  "name": "seeni-ai-tool-discovery-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "node scripts/build-kb.js",
+    "sync:taaft": "node scripts/sync-taaft.js"
+  },
+  "dependencies": {
+    "openai": "^5.0.0"
+  },
+  "devDependencies": {
+    "vercel": "^48.0.0"
+  }
+}

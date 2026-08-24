@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Example AI Tool",
+    "description": "Replace this seed entry with records obtained through an approved TAAFT export/API/feed.",
+    "category": "Example",
+    "useCases": ["Example use case"],
+    "url": "https://theresanaiforthat.com/",
+    "sourceUrl": "https://theresanaiforthat.com/",
+    "source": "TAAFT",
+    "verifiedAt": null
+  }
+]
